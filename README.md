@@ -30,8 +30,8 @@ An IoT-based intelligent parking system using ESP32 and IR sensors for real-time
 
 ---
 
-## Circuit Diagram
-![Circuit Diagram](images/circuit_diagram.png)  
+## Block Diagram
+![Block diagram Diagram](Block diagram.png)  
 
 ---
 
@@ -54,7 +54,7 @@ An IoT-based intelligent parking system using ESP32 and IR sensors for real-time
 ---
 
 ## Project Images / Web Interface
-![Web Interface](images/web_interface.png)  
+![Web Interface](Project image.png)  
 
 ---
 
