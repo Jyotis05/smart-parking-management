@@ -30,11 +30,6 @@ An IoT-based intelligent parking system using ESP32 and IR sensors for real-time
 
 ---
 
-## Block Diagram
-![Block diagram Diagram](Block diagram.png)  
-
----
-
 ## Installation / Setup
 1. Install **Arduino IDE** and required libraries.  
 2. Connect the ESP32 and components according to the circuit diagram.  
@@ -50,11 +45,6 @@ An IoT-based intelligent parking system using ESP32 and IR sensors for real-time
 - Check available parking slots.  
 - Book a slot; the gate will open automatically.  
 - Monitor slot status in real-time via LCD or web page.  
-
----
-
-## Project Images / Web Interface
-![Web Interface](Project image.png)  
 
 ---
 
